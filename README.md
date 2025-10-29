@@ -1,30 +1,27 @@
 # Skiva Design
 
-Site institucional da Skiva Design, desenvolvido com HTML e CSS puro, inspirado na interface do Instagram.
+Site institucional da Skiva Design — layout inspirado na interface do Instagram.
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - HTML5
 - CSS3
-- Design responsivo
-- Otimizado para performance
 
-## 📱 Features
+## Como ver localmente
 
-- Layout inspirado no Instagram
-- Perfil profissional com destaques
-- Grid de posts com imagens e vídeos
-- Interface adaptativa para diferentes dispositivos
+1. Clone o repositório (ou baixe os arquivos):
 
-## 🔧 Instalação
-
-1. Clone este repositório:
-```bash
-git clone https://github.com/seu-usuario/skiva-design.git
+```powershell
+git clone https://github.com/Jaime-Guilherme/skiva-desing-Insta.git
 ```
 
-2. Abra o arquivo `index.html` em seu navegador
+2. Abra `index.html` no navegador.
 
-## 📝 Licença
+## Publicação
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está publicado no GitHub Pages:
+https://jaime-guilherme.github.io/skiva-desing-Insta/
+
+## Licença
+
+Licença MIT — use como quiser.
